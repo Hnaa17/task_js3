@@ -1,0 +1,15 @@
+{
+  "name": "task_js3",
+  "version": "1.0.0",
+  "description": "tugas no.4",
+  "main": "tugas4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhana",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^3.1.5",
+    "yarn": "^1.22.19"
+  }
+}
